@@ -100,3 +100,14 @@ git remote add origin https://github.com/boTux/botux-drupal-7-panopoly.git
 git push -u origin master
 ```
 
+
+Todo
+----
+
+Fix the modules with .git
+
+```
+	modifié:         profiles/panopoly/modules/contrib/apps (contenu modifié, contenu non suivi)
+	modifié:         profiles/panopoly/modules/contrib/fape (contenu modifié, contenu non suivi)
+	modifié:         profiles/panopoly/modules/contrib/navbar (contenu modifié, contenu non suivi)
+```
